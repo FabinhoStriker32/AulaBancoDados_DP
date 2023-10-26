@@ -87,4 +87,4 @@ Os dados de tipo de quarto, convênio e especialidade são essenciais para a ope
 
 RESPOSTAS:
 
-O script se encontra no repositório, "hospital.sql"
+O script se encontra no repositório, "Untitled (1).sql"
